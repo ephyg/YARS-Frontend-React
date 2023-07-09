@@ -8,4 +8,3 @@
 #### 3. npm install sass
 
 
-## [Link](https://yars-frontend.netlify.app/)
